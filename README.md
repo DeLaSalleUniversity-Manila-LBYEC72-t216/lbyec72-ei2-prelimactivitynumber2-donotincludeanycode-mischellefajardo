@@ -1,14 +1,13 @@
 # lbyec72-ei2-prelimactivitynumber2-donotincludeanycode-mischellefajardo
 lbyec72-ei2-prelimactivitynumber2-donotincludeanycode-mischellefajardo created by GitHub Classroom
 
-
-Main Menu
+``` Main Menu ```
 ![](Main Menu.png)
 
-Option 1
+``` Option 1 ```
 ![](1.png)
 
-Option 1 Variable P
+``` Option 1 Variable P ```
 ![](1P.png)
 
 Option 1 Variable A
