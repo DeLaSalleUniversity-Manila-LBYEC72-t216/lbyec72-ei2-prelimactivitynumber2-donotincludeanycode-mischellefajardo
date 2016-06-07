@@ -1,30 +1,30 @@
 # lbyec72-ei2-prelimactivitynumber2-donotincludeanycode-mischellefajardo
 lbyec72-ei2-prelimactivitynumber2-donotincludeanycode-mischellefajardo created by GitHub Classroom
 
-![](Main Menu.PNG)
+![](Main Menu.png)
 
-![](1.PNG)
+![](1.png)
 
-![](1P.PNG)
+![](1P.png)
 
-![](1A.PNG)
+![](1A.png)
 
-![](1U.PNG)
+![](1U.png)
 
-![](1T.PNG)
+![](1T.png)
 
-![](1X.PNG)
+![](1X.png)
 
-![](2.PNG)
+![](2.png)
 
-![](2Q.PNG)
+![](2Q.png)
 
-![](2M.PNG)
+![](2M.png)
 
-![](2C.PNG)
+![](2C.png)
 
-![](2T.PNG)
+![](2T.png)
 
-![](2X.PNG)
+![](2X.png)
 
-![](3.PNG)
+![](3.png)
