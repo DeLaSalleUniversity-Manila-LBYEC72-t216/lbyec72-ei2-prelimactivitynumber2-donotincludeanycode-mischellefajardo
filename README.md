@@ -11,11 +11,69 @@ Main Menu
 Option 1
 ```
 ![](Option 1.png)
+```
+Option 1 Variable P
+```
+![](Option 1P.png)
 
 ```
-Main Menu
+Option 1 Variable A
 ```
-![](Main Menu.png)
+![](Option 1A.png)
+
+```
+Option 1 Variable U
+```
+![](Option 1U.png)
+
+```
+Option 1 Variable T
+```
+![](Option 1T.png)
+
+```
+Option 2
+```
+![](Option 2.png)
+
+```
+Option 2 Variable Q
+```
+![](Option 2Q.png)
+
+```
+Option 2 Variable M
+```
+![](Option 2M.png)
+
+```
+Option 2 Variable C
+```
+![](Option 2C.png)
+
+```
+Option 2 Variable T
+```
+![](Option 2T.png)
+```
+Option 3
+```
+![](Option 3.png)
+
+```
+Invalid Choice at Option 1
+```
+![](IC Option 1.png)
+
+```
+Invalid Choice at Option 2
+```
+![](IC Option 2.png)
+
+
+```
+Activity 2
+```
 
 ```
 Option 1
