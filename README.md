@@ -1,5 +1,16 @@
 # lbyec72-ei2-prelimactivitynumber2-donotincludeanycode-mischellefajardo
 lbyec72-ei2-prelimactivitynumber2-donotincludeanycode-mischellefajardo created by GitHub Classroom
+```
+Activity 6
+```
+```
+Main Menu
+```
+![](Main Menu.png)
+```
+Option 1
+```
+![](Option 1.png)
 
 ```
 Main Menu
